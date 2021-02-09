@@ -3,4 +3,4 @@ Build a tic-tac-toe game in uno
 
 ## Tech Stack
 * Languages
-* IDE
+* IDE - VS Code
